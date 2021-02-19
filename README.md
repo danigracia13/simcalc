@@ -1,5 +1,5 @@
-# Welcome to The Bot.ty Bot
-<img src="https://image.freepik.com/free-vector/robot-icon-bot-sign-design-chatbot-symbol-concept-voice-support-service-bot-online-support-bot-vector-stock-illustration_100456-34.jpg" height="250" alt="The Bot.ty">
+# Welcome to SimCalc
+<img src="https://images.vexels.com/media/users/3/156593/isolated/preview/641d34a32b39c9900879ed3c122e5242-calculator-icon-travel-icons-by-vexels.png" height="250" alt="The Bot.ty">
 
 <h3>About<h3>
 <p>The Bot.ty is a school related project based on a multifuction Discord Bot featuring youtube music support, events messages as welcome and leave. This project is in constant developing so new functions, fixes and improves will come as soon as possible. 
